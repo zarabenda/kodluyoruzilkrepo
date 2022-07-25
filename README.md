@@ -7,7 +7,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 **WEB SAYFAMA HOŞGELDİN BUT BOLD**
 - Dijital varlıklarınızı soğuk cüzdanda saklamak için ledger disk satın alabilirsiniz.
-- Bitcoin, Etherium ve diğer crypto varlıklarınız için.
+- Bitcoin, Ethereum ve diğer crypto varlıklarınız için.
 
 [Ledger disk hakkında bknz](https://www.ledger.com/tr/academy/ledger-uygulamalari-nedir-ve-onlara-neden-ihtiyacim-var)
 
