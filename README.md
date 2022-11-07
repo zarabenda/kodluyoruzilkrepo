@@ -1,4 +1,4 @@
-# Kodluyoruz First Repository 😊👍
+# Kodluyoruz First Repository💫
 <b>TR:</b> Kodluyoruz eğitimi kapsamında açtığım ilk repository<br>
 <b>EN:</b> The first repository I opened within the scope of Kodluyoruz training<br>
 
