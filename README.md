@@ -1,5 +1,7 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+# Kodluyoruz First Repository
+<b>TR:</b> Kodluyoruz eğitimi kapsamında açtığım ilk repository<br>
+<b>EN:</b> The first repository I opened within the scope of Kodluyoruz training<br>
+
 # Hello World
 ## Ledger Disk 
 ### Adoption is essential and inevitable. Get it until it's too late.
