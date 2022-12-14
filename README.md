@@ -1,6 +1,6 @@
 # Kodluyoruz First Repository💫
 <b>TR:</b> Kodluyoruz eğitimi kapsamında açtığım ilk repository.<br>
-<b>EN:</b> The first repository that i opened within Kodluyoruz startup.<br>
+<b>EN:</b> The first repository that i created within Kodluyoruz startup.<br>
 
 # Hello World
 ## Ledger Disk 
